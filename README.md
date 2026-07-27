@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Your Name
+Hi 👋 I'm Sirapat Chantawong
 </h1>
 
 <p align="center">
@@ -160,7 +160,7 @@ A website for managing customer and repair information.
 
 📧 Email
 
-your@email.com
+korsiraphat144@email.com
 
 🌐 GitHub
 
