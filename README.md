@@ -1,7 +1,7 @@
 <!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=220&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20Student&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=220&section=header&text=Sirapat%20Chantawong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20Student&descAlignY=55" />
 </p>
 
 <h1 align="center">
