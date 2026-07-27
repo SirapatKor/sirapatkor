@@ -69,29 +69,50 @@ Vocational Certificate in Information Technology
 
 # 💻 Skills
 
-### Programming
+### 🌐 Front-end
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs"/>
 </p>
 
-### Database
+- HTML
+- CSS
+- JavaScript
+- Next.js
+
+---
+
+### ⚙️ Back-end
 
 <p>
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+</p>
 
+- Java
+- Spring Boot
+
+---
+
+### 🗄️ Database
+
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
-### Tools
+- MySQL
+
+---
+
+### 🛠️ Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,git"/>
 </p>
+
+- Visual Studio Code
+- Git
+- GitHub
+- Figma
 
 ---
 
@@ -105,54 +126,21 @@ A website for booking pet grooming services.
 
 - HTML
 - CSS
-- PHP
 - MySQL
 
 ---
 
-## 🚗 Car Service Management System
+## 🚜 Agricultural Equipment Rental System
 
 A website for managing customer and repair information.
 
 **Tools**
 
-- PHP
+- Next.js
+- HTML
+- Figma
 - MySQL
-- Canva
-
----
-
-# 📜 Certificates
-
-🏆 Canva AI
-
-🏆 Java Programming
-
-🏆 SQL
-
-🏆 Cisco Networking
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight"/>
-
-</p>
+- Spring Boot
 
 ---
 
@@ -168,7 +156,7 @@ https://github.com/yourusername
 
 💼 LinkedIn
 
-https://linkedin.com/in/yourusername
+https://linkedin.com/in/sirapat
 
 ---
 
