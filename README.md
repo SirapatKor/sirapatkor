@@ -116,7 +116,7 @@ A website for booking pet grooming services.
 
 ## 🚜 Agricultural Equipment Rental System
 
-A WebSite for borrowing agricultural equipment. Users can browse available equipment, submit borrowing requests, and manage borrowing records.
+A website for borrowing agricultural equipment. Users can browse available equipment, submit borrowing requests, and manage borrowing records.
 
 **Tools**
 
