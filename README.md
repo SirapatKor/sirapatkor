@@ -1,7 +1,7 @@
 <!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="./images/6604106417.jpg" alt="Banner" width="300">
+  <img src="./images/6604106417.jpg" alt="Banner" width="250">
 </p>
 
 <h1 align="center">
