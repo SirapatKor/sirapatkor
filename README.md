@@ -136,11 +136,11 @@ korsiraphat144@email.com
 
 🌐 GitHub
 
-https://github.com/yourusername
+[https://github.com/yourusername](https://github.com/SirapatKor/sirapatkor/blob/main/README.md)
 
 💼 LinkedIn
 
-https://linkedin.com/in/sirapat
+[https://linkedin.com/in/sirapat](https://github.com/SirapatKor/sirapatkor/blob/main/README.md)
 
 ---
 
