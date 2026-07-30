@@ -140,7 +140,7 @@ korsiraphat144@email.com
 
 💼 LinkedIn
 
-[https://linkedin.com/in/sirapat](https://github.com/SirapatKor/sirapatkor/blob/main/README.md)
+https://github.com/SirapatKor/sirapatkor/blob/main/README.md
 
 ---
 
