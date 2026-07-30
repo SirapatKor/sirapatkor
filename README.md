@@ -1,9 +1,4 @@
 <!-- ======================= Banner ======================= -->
-
-<p align="center">
-  <img src="./images/6604106417.jpg" alt="Banner" width="250">
-</p>
-
 <h1 align="center">
 Hi 👋 I'm Sirapat Chantawong
 </h1>
