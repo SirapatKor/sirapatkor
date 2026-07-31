@@ -46,71 +46,15 @@ Vocational Certificate in Information Technology
 
 ---
 
-# 💻 Skills
+# 🧰 Tech Stack & Tools
 
-### 🌐 Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-### ⚙️ Back-end & Framework
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
-
-- Java
-- Spring MVC
-- Hibernate
-
----
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
-</p>
-
-- MySQL
-- Oracle
-
----
-
-### 🧪 Software Testing
-
-- Test Case
-- Bug Testing
-
----
-
-### 🎨 UI/UX & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
-- UI/UX Design
-- Figma
-- Canva
-
----
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-- Git
-- GitHub
-- Visual Studio Code
+| Domain | Primary | Comfortable | Currently Exploring |
+|:---|:---|:---|:---|
+| **Front-end** | HTML, CSS, JavaScript | Front-End | UI/UX Design |
+| **Back-end** | Java | Spring MVC, Hibernate | Back-End Development |
+| **Database** | MySQL | Oracle, SQL | Database Design |
+| **Testing** | Test Case | Bug Testing | Software Testing |
+| **Tools** | Git, GitHub | Figma, Canva | — |
 
 ---
 
