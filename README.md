@@ -51,47 +51,66 @@ Vocational Certificate in Information Technology
 ### 🌐 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 - HTML
 - CSS
 - JavaScript
-- Next.js
 
 ---
 
-### ⚙️ Back-end
+### ⚙️ Back-end & Framework
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 </p>
 
 - Java
-- Spring Boot
+- Spring MVC
+- Hibernate
 
 ---
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
 </p>
 
 - MySQL
+- Oracle
+
+---
+
+### 🧪 Software Testing
+
+- Test Case
+- Bug Testing
+
+---
+
+### 🎨 UI/UX & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+- UI/UX Design
+- Figma
+- Canva
 
 ---
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,git"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-- Visual Studio Code
 - Git
 - GitHub
-- Figma
+- Visual Studio Code
 
 ---
 
